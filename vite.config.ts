@@ -3,5 +3,5 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   plugins: [tailwindcss()],
-  base: "/eddies-home-maintenance",
+  base: "/eddies-home-maintenance/",
 });
